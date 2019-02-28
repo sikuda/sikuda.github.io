@@ -1,2 +1,4 @@
 # sikuda.github.io
-Welcome to my world
+
+Мой бложик - http://sikuda.ru
+Мой проектик - http://php1c.ru
